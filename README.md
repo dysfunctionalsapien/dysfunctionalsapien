@@ -10,4 +10,3 @@
 * **[Off-Topic](./Off-Topic)**: 
 
 ---
-// No kinetic energy. No noise.
